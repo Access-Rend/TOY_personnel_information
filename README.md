@@ -14,3 +14,7 @@ an easy tool for saving your personnel information, but not support CHINESE(utf-
 ## Optimization
 + the delete function is not good so you can rewrite it in line 32
 + lots of bad words are maybe disliked by some people, take care of them
+
+## ETC
+I just wanna write this program to deal my job, but thanks to **C++ Standards Committee** it's too hard to me to support CHINESE(utf-8).    
+so just make it a toy present to you hot guys(Sucking lips)    ;9
