@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/personnel_information.dir/main.cpp.o -o personnel_information   -L"/mnt/c/Users/Rend/Desktop/智锐/职工信息/COV personnel information/{LINK_DIR}"  -Wl,-rpath,"/mnt/c/Users/Rend/Desktop/智锐/职工信息/COV personnel information/{LINK_DIR}" -ljsoncpp -ljsoncpp 

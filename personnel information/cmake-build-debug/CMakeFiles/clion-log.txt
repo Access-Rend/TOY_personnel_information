@@ -1,0 +1,4 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/mnt/c/Users/Rend/Desktop/智锐/职工信息/COV personnel information"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/Rend/desktop/鏅洪攼/鑱屽伐淇℃伅/COV personnel information/cmake-build-debug

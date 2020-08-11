@@ -1,0 +1,3 @@
+/mnt/c/Users/Rend/desktop/智锐/职工信息/COV personnel information/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Rend/desktop/智锐/职工信息/COV personnel information/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Rend/desktop/智锐/职工信息/COV personnel information/cmake-build-debug/CMakeFiles/personnel_information.dir
