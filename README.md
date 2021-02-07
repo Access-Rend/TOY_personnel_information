@@ -1,4 +1,4 @@
-# tooltoy-personnel_information
+# TOY_personnel_information
 an easy tool for saving your personnel information into **JSON** file, but not support CHINESE(utf-8) yet...damn
 
 
